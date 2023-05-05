@@ -1,0 +1,54 @@
+{
+   
+ "channels": [
+    {
+      "id": 1,
+      "title": "Kung Fu Panda",
+      "author": "256k Subscriber",
+      "img": "book.png"
+    },
+    {
+      "id": 2,
+      "title": "Happy Lemon",
+      "author": "256k Subscriber",
+      "img": "book2.png"
+    },
+    {
+      "id": 3,
+      "title": "Billy & Shmilli",
+      "author": "256k Subscriber",
+      "img": "book3.png"
+    },
+    {
+      "id": 4,
+      "title": "Story Book",
+      "author": "256k Subscriber",
+      "img": "book4.png"
+    },
+    {
+      "id": 5,
+      "title": "Journey of the Star",
+      "author": "256k Subscriber",
+      "img": "book.png"
+    },
+    {
+      "id": 6,
+      "title": "Nasa Boy",
+      "author": "256k Subscriber",
+      "img": "book2.png"
+    },
+    {
+      "id": 7,
+      "title": "Sample Text",
+      "author": "256k Subscriber",
+      "img": "book3.png"
+    },
+    {
+      "id": 8,
+      "title": "Cool Kids 5",
+      "author": "256k Subscriber",
+      "img": "book4.png"
+    }
+      ]
+}
+ 

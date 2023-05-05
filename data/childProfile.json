@@ -1,0 +1,281 @@
+{
+    "data": {
+        "childBasicInfo": {
+            "profileImg": "editChild1.png",
+            "fullName": "Jabir Qureshi",
+            "school": "Al Jeel Al Saeed School",
+            "age": "9 Year",
+            "gender": "Male",
+            "rewards": {
+                "goldPoints": 450,
+                "silverPoints": 450
+            }
+        },
+        "friendsList": [
+            {
+                "id": 1,
+                "profileImg": "ellipse1.png"
+            },
+            {
+                "id": 2,
+                "profileImg": "ellipse2.png"
+            },
+            {
+                "id": 3,
+                "profileImg": "ellipse3.png"
+            },
+            {
+                "id": 4,
+                "profileImg": "ellipse4.png"
+            },
+            {
+                "id": 5,
+                "profileImg": "ellipse5.png"
+            },
+            {
+                "id": 6,
+                "profileImg": "interestIcon6.png"
+            }
+        ],
+        "activityData": [
+            {
+                "id": 1,
+                "title": "Book Finished",
+                "stat": 6
+            },
+            {
+                "id": 2,
+                "title": "Hours Read",
+                "stat": 2
+            },
+            {
+                "id": 3,
+                "title": "Videos Watched",
+                "stat": 4
+            },
+            {
+                "id": 4,
+                "title": "Word Count",
+                "stat": 600
+            },
+            {
+                "id": 5,
+                "title": "Active Works",
+                "stat": 6
+            }
+        ],
+        "progressOnAppChartData": {
+            "data": [
+                0.5
+            ],
+            "labels": [
+                "6 \nhrs "
+            ],
+            "colors": [
+                "#2AA7DD"
+            ],
+            "type": [
+                "On App"
+            ]
+        },
+        "progressWatchingChartData": {
+            "data": [
+                0.3
+            ],
+            "labels": [
+                "7 \nhrs"
+            ],
+            "colors": [
+                "#EC4D61"
+            ],
+            "type": [
+                "Watching"
+            ]
+        },
+        "progressReadingChartData": {
+            "data": [
+                0.8
+            ],
+            "labels": [
+                "12 \nhrs"
+            ],
+            "colors": [
+                "#84BD47"
+            ],
+            "type": [
+                "Reading"
+            ]
+        },
+        "badge": [
+            {
+                "image1": "sampleBadgeOne.png",
+                "image2": "sampleBadgeTwo.png",
+                "image3": "sampleBadgeThree.png"
+            },
+            {
+                "image1": "sampleBadgeOne.png",
+                "image2": "sampleBadgeTwo.png",
+                "image3": "sampleBadgeThree.png"
+            }
+        ],
+        "teacherRecommended": [
+            {
+                "id": 1,
+                "Image": "pdfImage2.png",
+                "pdfLogoImage": "pdfLogo.png",
+                "title": "Easy Maths Tricks",
+                "time": "1 Hour Ago",
+                "likeCount": 2565,
+                "comments": 230,
+                "views": 126
+            },
+            {
+                "id": 2,
+                "Image": "pdfImage2.png",
+                "pdfLogoImage": "pdfLogo.png",
+                "title": "Easy Maths Tricks",
+                "time": "1 Hour Ago",
+                "likeCount": 2565,
+                "comments": 230,
+                "views": 126
+            },
+            {
+                "id": 2,
+                "Image": "pdfImage2.png",
+                "pdfLogoImage": "pdfLogo.png",
+                "title": "Easy Maths Tricks",
+                "time": "1 Hour Ago",
+                "likeCount": 2565,
+                "comments": 230,
+                "views": 126
+            }
+        ],
+        "currentActivity": [
+            {
+                "title": "Easy Math Book Reading",
+                "teacherProfileImage": "channelImage3.png",
+                "teacherProfileName": "Fatima Shaikh",
+                "dueDate": "27-Oct-2020",
+                "progressActivityChartData": {
+                    "data": [
+                        0.8
+                    ],
+                    "labels": [
+                        "80%"
+                    ],
+                    "colors": [
+                        "#84BD47"
+                    ]
+                }
+            }
+        ],
+        "bookShelf": [
+            {
+                "image": "sampleImageOne.png",
+                "image2": "sampleImageTwo.png",
+                "text": "Kung Fu Panda",
+                "price": "$15.30",
+                "text2": "Sample Text",
+                "price2": "$20.30"
+            },
+            {
+                "image": "sampleImageTwo.png",
+                "image2": "sampleImageOne.png",
+                "text": "Easy Maths",
+                "price": "$2",
+                "text2": "Sun and Moon",
+                "price2": "$15.30"
+            },
+            {
+                "image": "sampleImageOne.png",
+                "image2": "sampleImageTwo.png",
+                "text": "Doramon",
+                "price": "$50",
+                "text2": "English",
+                "price2": "$500"
+            },
+            {
+                "image": "sampleImageTwo.png",
+                "image2": "sampleImageOne.png",
+                "text": "Mr Bean",
+                "price": "$5",
+                "text2": "Kung Fu Panda",
+                "price2": "$500"
+            }
+        ],
+        "suggestions": [
+            {
+                "image": "sampleImageOne.png",
+                "image2": "sampleImageTwo.png",
+                "text": "Kung Fu Panda",
+                "price": "$15.30",
+                "text2": "Sample Text",
+                "price2": "$20.30"
+            },
+            {
+                "image": "sampleImageTwo.png",
+                "image2": "sampleImageOne.png",
+                "text": "Easy Maths",
+                "price": "$2",
+                "text2": "Sun and Moon",
+                "price2": "$15.30"
+            },
+            {
+                "image": "sampleImageOne.png",
+                "image2": "sampleImageTwo.png",
+                "text": "Doramon",
+                "price": "$50",
+                "text2": "English",
+                "price2": "$500"
+            },
+            {
+                "image": "sampleImageTwo.png",
+                "image2": "sampleImageOne.png",
+                "text": "Mr Bean",
+                "price": "$5",
+                "text2": "Kung Fu Panda",
+                "price2": "$500"
+            }
+        ],
+        "channels": [
+            {
+                "id": 1,
+                "channelImage": "channelImage2.png",
+                "channelName": "Al Jeel Al Saeed School",
+                "lastActivity": "1 Hours Ago",
+                "subscriberCount": "256k",
+                "noOfVideos": 132,
+                "posts": [
+                    {
+                        "image": "videoImage1.png",
+                        "logo": "play.png",
+                        "title": "Social Activities",
+                        "publishDate": "1 Hours Ago",
+                        "likes": 567,
+                        "commentCount": 126,
+                        "views": 123
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "channelImage": "channelImage1.png",
+                "channelName": "Sky Dream Colors",
+                "lastActivity": "1 Hours Ago",
+                "subscriberCount": "256k",
+                "noOfVideos": 132,
+                "posts": [
+                    {
+                        "image": "pdfImage1.png",
+                        "logo": "pdfLogo.png",
+                        "title": "Easy Mathes Tricks",
+                        "publishDate": "1 Hours Ago",
+                        "likes": 235,
+                        "commentCount": 126,
+                        "views": 123
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "teacher": {
+    "teacherInfo": {
+      "profileImg": "editTeacher.png",
+      "labelText": "Teacher",
+      "teacherName": "Hubbir Qureshi",
+      "schoolName": "Next Generation School",
+      "channels": [
+        {
+          "id": 1,
+          "titleImage": "teacherPic1.png",
+          "titleName": "Arabic Language (ST 2)",
+          "subscribers": "256k Subscribers",
+          "count": "132 Videos",
+          "standard": "Standard 2"
+        },
+        {
+          "id": 2,
+          "titleImage": "teacherPic2.png",
+          "titleName": "English Language (ST 2)",
+          "subscribers": "256k Subscribers",
+          "count": "132 Videos",
+          "standard": "Standard 2"
+        },
+        {
+          "id": 3,
+          "titleImage": "teacherPic1.png",
+          "titleName": "Arabic Language (ST 2)",
+          "subscribers": "256k Subscribers",
+          "count": "132 Videos",
+          "standard": "Standard 2"
+        },
+        {
+          "id": 4,
+          "titleImage": "teacherPic2.png",
+          "titleName": "English Language (ST 2)",
+          "subscribers": "256k Subscribers",
+          "count": "132 Videos",
+          "standard": "Standard 2"
+        }
+      ]
+    }
+  }
+}

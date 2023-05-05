@@ -1,0 +1,45 @@
+{
+  "myChannel": {
+    "profileImage": "myChannel1.png",
+    "channelName": "Dream Star Kid",
+    "subscribers": "256k subscribers",
+    "posts": [
+      {
+        "id": 1,
+        "profileImage": "myChannel1.png",
+        "profileName": "Angry Bird 2",
+        "views": 1256,
+        "lastActivity": "1 Hours Ago",
+        "isLiked": false,
+        "likeCount": 2356,
+        "comments": 235,
+        "view": 235,
+        "contentImage": "myChannel2.png"
+      },
+      {
+        "id": 2,
+        "profileImage": "myChannel1.png",
+        "profileName": "Angry Bird 2",
+        "views": 1256,
+        "lastActivity": "1 Hours Ago",
+        "isLiked": false,
+        "likeCount": 2356,
+        "comments": 235,
+        "view": 235,
+        "contentImage": "myChannel4.png"
+      },
+      {
+        "id": 3,
+        "profileImage": "myChannel1.png",
+        "profileName": "Angry Bird 2",
+        "views": 1256,
+        "lastActivity": "1 Hours Ago",
+        "isLiked": false,
+        "likeCount": 2356,
+        "comments": 235,
+        "view": 235,
+        "contentImage": "myChannel5.png"
+      }
+    ]
+  }
+}

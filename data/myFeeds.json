@@ -1,0 +1,44 @@
+{
+    "myFeeds": [
+        {
+            "id": 1,
+            "profileImage": "dp.png",
+            "profileName": "Dream Star Kid",
+            "endDate": "5 min ago",
+            "content": "esl.png",
+            "icon": "play.png",
+            "Title": "Very Productive Activities",
+            "description": "There are many variations of passages Lorem Ipsum available, but the majority"
+        },
+        {
+            "id": 2,
+            "profileImage": "dp.png",
+            "profileName": "Dream Star Kid",
+            "endDate": "6 min ago",
+            "content": "feedpic2.png",
+            "icon": "docs.png",
+            "Title": "Very Productive Activities",
+            "description": "There are many variations of passages Lorem Ipsum available, but the majority"
+        },
+        {
+            "id": 3,
+            "profileImage": "dp.png",
+            "profileName": "Dream Star Kid",
+            "endDate": "7 min ago",
+            "content": "feedpic2.png",
+            "icon": "docs.png",
+            "Title": "Very Productive Activities",
+            "description": "There are many variations of passages Lorem Ipsum available, but the majority"
+        },
+        {
+            "id": 4,
+            "profileImage": "dp.png",
+            "profileName": "Dream Star Kid",
+            "endDate": "5 min ago",
+            "content": "feedpic2.png",
+            "icon": "docs.png",
+            "Title": "Very Productive Activities",
+            "description": "There are many variations of passages Lorem Ipsum available, but the majority"
+        }
+    ]
+}

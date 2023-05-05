@@ -1,0 +1,88 @@
+{
+    "eBook": {
+        "id": 1,
+        "bookImage": "eBook.png",
+        "ageRange": "8-12",
+        "grLevel": "--",
+        "quiz": "Yes",
+        "bookTitle": "Diary of a Wimpy Kid",
+        "writtenBy": "Jeff Kinney",
+        "illustratedBy": "Jean Lumier",
+        "rating": 3,
+        "ratinCount": "(35)",
+        "pages": "290 Pages",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even..gbb jbjbjhb bjhbhbh nbbjbjb jbhjbhbh bjvj vjv hgvg",
+        "totalReview": "35",
+        "averageRatings": "4.0",
+        "averageRating": 4,
+        "badges": [
+            {
+                "id": 1,
+                "image": "welldoneBadge.png"
+            },
+            {
+                "id": 2,
+                "image": "awardBadge.png"
+            },
+            {
+                "id": 3,
+                "image": "awardBadge.png"
+            },
+            {
+                "id": 4,
+                "image": "awardBadge.png"
+            },
+            {
+                "id": 5,
+                "image": "awardBadge.png"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Amira Malik",
+                "date": "19 Oct, 2020",
+                "flag": "Inactive",
+                "rating": 2,
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority",
+                "Image": "user.png"
+            },
+            {
+                "id": 2,
+                "name": "Amira Malik",
+                "date": "19 Oct, 2020",
+                "flag": "Inactive",
+                "rating": 2,
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority",
+                "Image": "user.png"
+            },
+            {
+                "id": 3,
+                "name": "Amira Malik",
+                "date": "19 Oct, 2020",
+                "flag": "Active",
+                "rating": 2,
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority",
+                "Image": "user.png"
+            },
+            {
+                "id": 4,
+                "name": "Fatima Zahra",
+                "date": "10 Sep, 2020",
+                "flag": "Inactive",
+                "rating": 2,
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority.This is some additional text that will be displayed when the read more button is clicked.",
+                "Image": "user2.png"
+            },
+            {
+                "id": 5,
+                "name": "Fatima Zahra",
+                "date": "10 Sep, 2020",
+                "flag": "Inactive",
+                "rating": 2,
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority.This is some additional text that will be displayed when the read more button is clicked.",
+                "Image": "user2.png"
+            }
+        ]
+    }
+}

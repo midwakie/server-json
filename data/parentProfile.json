@@ -1,0 +1,75 @@
+{
+  "parentProfile": {
+    "parentName": "Abber Shaikh",
+    "noChildrens": "2 Childrens",
+    "parentImage": "parentImage.png",
+    "childrens": [
+      {
+        "id": 1,
+        "childrenName": "Fatima Shaikh",
+        "schoolName": "Next Generation School",
+        "childImage": "childImage1.png",
+        "Points": "450",
+        "teachersImage": [
+          {
+            "id": 1,
+            "avatarImage": "person1.png"
+          },
+          {
+            "id": 2,
+            "avatarImage": "person2.png"
+          },
+          {
+            "id": 3,
+            "avatarImage": "person3.png"
+          },
+          {
+            "id": 4,
+            "avatarImage": "person4.png"
+          },
+          {
+            "id": 5,
+            "avatarImage": "person5.png"
+          },
+          {
+            "id": 6,
+            "avatarImage": "interestIcon6.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "childrenName": "Ayda Shaikh ",
+        "schoolName": "Next Generation School",
+        "childImage": "childImage2.png",
+        "Points": "450",
+        "teachersImage": [
+          {
+            "id": 1,
+            "avatarImage": "person1.png"
+          },
+          {
+            "id": 2,
+            "avatarImage": "person2.png"
+          },
+          {
+            "id": 3,
+            "avatarImage": "person3.png"
+          },
+          {
+            "id": 4,
+            "avatarImage": "person4.png"
+          },
+          {
+            "id": 5,
+            "avatarImage": "person5.png"
+          },
+          {
+            "id": 6,
+            "avatarImage": "interestIcon6.png"
+          }
+        ]
+      }
+    ]
+  }
+}
